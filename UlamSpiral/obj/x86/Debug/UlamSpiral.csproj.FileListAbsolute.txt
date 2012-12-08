@@ -1,0 +1,18 @@
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\bin\Debug\UlamSpiral.exe
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\bin\Debug\UlamSpiral.pdb
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\obj\x86\Debug\UlamSpiral.Form1.resources
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\obj\x86\Debug\UlamSpiral.Properties.Resources.resources
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\obj\x86\Debug\UlamSpiral.exe
+C:\Users\Braden\AppData\Local\Temporary Projects\UlamSpiral\obj\x86\Debug\UlamSpiral.pdb
+D:\Projects\C#\UlamSpiral\UlamSpiral\obj\x86\Debug\UlamSpiral.exe
+D:\Projects\C#\UlamSpiral\UlamSpiral\obj\x86\Debug\UlamSpiral.pdb
+D:\Projects\C#\UlamSpiral\UlamSpiral\bin\Debug\UlamSpiral.exe
+D:\Projects\C#\UlamSpiral\UlamSpiral\bin\Debug\UlamSpiral.pdb
+D:\Projects\C#\UlamSpiral\UlamSpiral\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\C#\UlamSpiral\UlamSpiral\obj\x86\Debug\UlamSpiral.Properties.Resources.resources
+D:\Projects\C#\UlamSpiral\UlamSpiral\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\C#\UlamSpiral\UlamSpiral\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\C#\UlamSpiral\UlamSpiral\obj\x86\Debug\UlamSpiral.Main.resources
